@@ -1,5 +1,24 @@
-_pycache_/
+# Ignore virtual environments
+.venv/
+
+# Ignore Jupyter checkpoint files
 .ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore model files and datasets
 *.h5
 *.pkl
+*.csv
+*.zip
+*.tar.gz
+*.jpg
+*.jpeg
+*.png
+
+# Ignore OS files
 .DS_Store
+Thumbs.db
+
