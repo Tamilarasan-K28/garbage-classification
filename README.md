@@ -42,6 +42,5 @@ This deep learning project uses a Convolutional Neural Network (CNN) to classify
 
 ---
 
-## 🗂️ Project Structure
 
 
