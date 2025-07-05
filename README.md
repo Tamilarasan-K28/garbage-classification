@@ -1,13 +1,25 @@
-# Garbage Classification using CNN
+# ♻️ Garbage Classification Using AI
 
-Classifies images of garbage into:
-- cardboard
-- glass
-- metal
-- paper
-- plastic
-- trash
+This project uses **Deep Learning (CNN)** to classify waste images into six categories:
 
-## How to Run
+- 🟤 Cardboard  
+- 🟡 Glass  
+- ⚙️ Metal  
+- 📄 Paper  
+- 🧴 Plastic  
+- 🗑️ Trash
 
-### Step 1: Train the Model
+Built using:
+- 🧠 TensorFlow / Keras
+- 🌐 Streamlit (for web interface)
+- 📦 Python
+
+---
+
+## 📸 Sample Interface
+
+![Streamlit Screenshot]("C:\Users\Tamilarasan K\OneDrive\图片\{4BF0ACDF-B34D-4CA0-88FF-AE53DC0AABE9}.png") 
+
+---
+
+
